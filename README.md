@@ -2,6 +2,8 @@
 
 A Three-Stage Optimization Framework for Urban Waterborne Parcel Logistics in Bergen
 
+![Ports, Routes and Boats](link-cover.png)
+
 ## Acknowledgements
 
 This thesis was written as the final work of two distinct master's degrees. The first is an MSc in Operations and Supply Chain Management from HEC Montréal. The second is an MSc in Energy, Natural Resources and the Environment from the Norwegian School of Economics (NHH).
