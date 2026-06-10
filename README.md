@@ -1,10 +1,6 @@
-# Ports, Routes and Boats
-
-A Three-Stage Optimization Framework for Urban Waterborne Parcel Logistics in Bergen
-
 ![Ports, Routes and Boats](link-cover.png)
 
-## Acknowledgements
+# Acknowledgements
 
 This thesis was written as the final work of two distinct master's degrees. The first is an MSc in Operations and Supply Chain Management from HEC Montréal. The second is an MSc in Energy, Natural Resources and the Environment from the Norwegian School of Economics (NHH).
 
@@ -14,7 +10,7 @@ I would also like to thank my supervisors, Jean-François Cordeau from HEC Montr
 
 Thank you.
 
-## Abstract
+# Abstract
 
 As urban parcel demand rises, trucks face growing limits in dense city centres. However, in Bergen, the same geography that constrains road delivery also creates another delivery channel: water. This thesis examines how a waterway parcel network could be designed for Bergen, with ports acting as parcel-locker locations.
 
